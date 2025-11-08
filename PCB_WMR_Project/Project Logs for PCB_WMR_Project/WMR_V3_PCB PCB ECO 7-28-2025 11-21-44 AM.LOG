@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=H? NewDesignator=XH1
+Change Component Designator: OldDesignator=H? NewDesignator=XH2
+Change Component Designator: OldDesignator=H? NewDesignator=XH3
+Change Component Designator: OldDesignator=H? NewDesignator=XH4
+Change Component Designator: OldDesignator=H? NewDesignator=XH5
+Change Component Designator: OldDesignator=H? NewDesignator=XH6
+Change Component Designator: OldDesignator=H? NewDesignator=XH7
+Change Component Designator: OldDesignator=H? NewDesignator=XH8
+Change Component Designator: OldDesignator=H? NewDesignator=XH9
+Change Component Designator: OldDesignator=H? NewDesignator=XH10
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH1 EncoderA
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH2 EncoderB
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH3 PWMA
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH4 PWMB
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH5 UART1
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH6 UART2
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH7 I2C1
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH9 ADC1
+Added Member To Class: ClassName=WMR_V3_Sheet Member=Component XH10 ADC2
+Added Room: Name=WMR_V2_Sheet
+Added Room: Name=WMR_V3_Sheet
